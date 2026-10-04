@@ -1,0 +1,1501 @@
+{
+  "sources": {
+    "windows-ui-assets": {
+      "page": "https://github.com/bartekl1/windows-ui-assets",
+      "license_note": "Repository structure and Markdown are MIT. Windows graphics remain subject to Microsoft original licensing terms; archive says archival, educational and personal use.",
+      "source_claim": "Files extracted from official ISO files or systems installed in VMs."
+    },
+    "react-old-icons": {
+      "page": "https://github.com/gsnoopy/react-old-icons",
+      "license_note": "MIT applies to code and tooling. Icons are owned by Microsoft or respective vendors; archive is intended for non-commercial educational and historical preservation purposes.",
+      "source_claim": "Repository credits Old Windows Icons Tumblr. PNG files preserve a central icon within a 540x500 transparent presentation canvas."
+    },
+    "orb": {
+      "page": "https://coddec.github.io/Classic-Shell/www.classicshell.net/forum/viewtopicab93.html?f=18&t=3207",
+      "download": "https://coddec.github.io/Classic-Shell/www.classicshell.net/forum/download/file688e.png?id=4345",
+      "license_note": "Forum attachment labelled Windows Vista.png. No separate artwork license verified; Windows mark/art belongs to Microsoft."
+    }
+  },
+  "icons": {
+    "computer": {
+      "source_page": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON109_1.ico",
+      "download_url": "https://raw.githubusercontent.com/bartekl1/windows-ui-assets/main/Icons/Windows%20Vista/ico/imageres.dll/ICON109_1.ico",
+      "source_repository": "windows-ui-assets",
+      "native_sizes": [
+        [
+          16,
+          16
+        ],
+        [
+          24,
+          24
+        ],
+        [
+          32,
+          32
+        ],
+        [
+          48,
+          48
+        ],
+        [
+          64,
+          64
+        ],
+        [
+          256,
+          256
+        ]
+      ],
+      "exports": {
+        "48": {
+          "path": "public/assets/icons/computer.png",
+          "method": "extracted native ICO frame",
+          "sha256": "e9d4b2b55e54ac4f432e23bec95c1351346a5de6ef2aed2d25074313ad296b49",
+          "bits_per_pixel": 32
+        },
+        "16": {
+          "path": "public/assets/icons/computer-16.png",
+          "method": "extracted native ICO frame",
+          "sha256": "1962403950dd7efa6bcb853e33a43ad9641a2c1747449c85367bf7d12113eec8",
+          "bits_per_pixel": 32
+        },
+        "256": {
+          "path": "public/assets/icons/computer-large.png",
+          "method": "extracted native 256px 32bpp ICO frame",
+          "sha256": "f98c7164028e042a414d32b27a5f2cd6465e0a4bb6bbee53f0d8f3235c46400c"
+        }
+      }
+    },
+    "documents": {
+      "source_page": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON112_1.ico",
+      "download_url": "https://raw.githubusercontent.com/bartekl1/windows-ui-assets/main/Icons/Windows%20Vista/ico/imageres.dll/ICON112_1.ico",
+      "source_repository": "windows-ui-assets",
+      "native_sizes": [
+        [
+          16,
+          16
+        ],
+        [
+          32,
+          32
+        ],
+        [
+          48,
+          48
+        ],
+        [
+          64,
+          64
+        ],
+        [
+          256,
+          256
+        ]
+      ],
+      "exports": {
+        "48": {
+          "path": "public/assets/icons/documents.png",
+          "method": "extracted native ICO frame",
+          "sha256": "9620842d0f7d1cb58b8d72c521bd13f76c50ca800da694cb5eebf233db27a584",
+          "bits_per_pixel": 32
+        },
+        "16": {
+          "path": "public/assets/icons/documents-16.png",
+          "method": "extracted native ICO frame",
+          "sha256": "686308b156791188f1cdc934a6982331e42dcb0b00e767dae2080265b4b050bd",
+          "bits_per_pixel": 32
+        }
+      }
+    },
+    "pictures": {
+      "source_page": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON113_1.ico",
+      "download_url": "https://raw.githubusercontent.com/bartekl1/windows-ui-assets/main/Icons/Windows%20Vista/ico/imageres.dll/ICON113_1.ico",
+      "source_repository": "windows-ui-assets",
+      "native_sizes": [
+        [
+          16,
+          16
+        ],
+        [
+          32,
+          32
+        ],
+        [
+          48,
+          48
+        ],
+        [
+          64,
+          64
+        ],
+        [
+          256,
+          256
+        ]
+      ],
+      "exports": {
+        "48": {
+          "path": "public/assets/icons/pictures.png",
+          "method": "extracted native ICO frame",
+          "sha256": "30abc72fcd864ab0916d8092d83cced8d53a038b4fb4d477fa01eeed4195de4d",
+          "bits_per_pixel": 32
+        },
+        "16": {
+          "path": "public/assets/icons/pictures-16.png",
+          "method": "extracted native ICO frame",
+          "sha256": "7db7c0c230fb22e58e42c9e65e8beab4064221ac3b4997dee79bdf2d044e3a93",
+          "bits_per_pixel": 32
+        }
+      }
+    },
+    "music": {
+      "source_page": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON108_1.ico",
+      "download_url": "https://raw.githubusercontent.com/bartekl1/windows-ui-assets/main/Icons/Windows%20Vista/ico/imageres.dll/ICON108_1.ico",
+      "source_repository": "windows-ui-assets",
+      "native_sizes": [
+        [
+          16,
+          16
+        ],
+        [
+          32,
+          32
+        ],
+        [
+          48,
+          48
+        ],
+        [
+          64,
+          64
+        ],
+        [
+          256,
+          256
+        ]
+      ],
+      "exports": {
+        "48": {
+          "path": "public/assets/icons/music.png",
+          "method": "extracted native ICO frame",
+          "sha256": "72114dd944c4709f450d4a4f49e26ec46c250502d611b9b3d4f6db1bc85f8a58",
+          "bits_per_pixel": 32
+        },
+        "16": {
+          "path": "public/assets/icons/music-16.png",
+          "method": "extracted native ICO frame",
+          "sha256": "25babf70a30190cfe68e2b3752f0495816241862983a3eed3db27832f64774f4",
+          "bits_per_pixel": 32
+        }
+      }
+    },
+    "videos": {
+      "source_page": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON189_1.ico",
+      "download_url": "https://raw.githubusercontent.com/bartekl1/windows-ui-assets/main/Icons/Windows%20Vista/ico/imageres.dll/ICON189_1.ico",
+      "source_repository": "windows-ui-assets",
+      "native_sizes": [
+        [
+          16,
+          16
+        ],
+        [
+          32,
+          32
+        ],
+        [
+          48,
+          48
+        ],
+        [
+          256,
+          256
+        ]
+      ],
+      "exports": {
+        "48": {
+          "path": "public/assets/icons/videos.png",
+          "method": "extracted native ICO frame",
+          "sha256": "bc3f730400fb664931d771d6ba6e1568a7801333d325c5310ac74a52db25d14f",
+          "bits_per_pixel": 32
+        },
+        "16": {
+          "path": "public/assets/icons/videos-16.png",
+          "method": "extracted native ICO frame",
+          "sha256": "4e19c223a118120e8886f22dff40e1a9d826ba457d131a88b02de55f455c28ce",
+          "bits_per_pixel": 32
+        }
+      }
+    },
+    "user": {
+      "source_page": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON123_1.ico",
+      "download_url": "https://raw.githubusercontent.com/bartekl1/windows-ui-assets/main/Icons/Windows%20Vista/ico/imageres.dll/ICON123_1.ico",
+      "source_repository": "windows-ui-assets",
+      "native_sizes": [
+        [
+          16,
+          16
+        ],
+        [
+          32,
+          32
+        ],
+        [
+          48,
+          48
+        ],
+        [
+          64,
+          64
+        ],
+        [
+          256,
+          256
+        ]
+      ],
+      "exports": {
+        "48": {
+          "path": "public/assets/icons/user.png",
+          "method": "extracted native ICO frame",
+          "sha256": "bed90270895fe2dc7ebb09d3d4c5e8e8dc930f7052380438fae9b0a683b574b7",
+          "bits_per_pixel": 32
+        },
+        "16": {
+          "path": "public/assets/icons/user-16.png",
+          "method": "extracted native ICO frame",
+          "sha256": "399a109fbbde0efb0c622e9f00d468dc6acf10a876ebf546a7f04ad62ef522ed",
+          "bits_per_pixel": 32
+        }
+      }
+    },
+    "folder": {
+      "source_page": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON3_1.ico",
+      "download_url": "https://raw.githubusercontent.com/bartekl1/windows-ui-assets/main/Icons/Windows%20Vista/ico/imageres.dll/ICON3_1.ico",
+      "source_repository": "windows-ui-assets",
+      "native_sizes": [
+        [
+          16,
+          16
+        ],
+        [
+          32,
+          32
+        ],
+        [
+          48,
+          48
+        ],
+        [
+          256,
+          256
+        ]
+      ],
+      "exports": {
+        "48": {
+          "path": "public/assets/icons/folder.png",
+          "method": "extracted native ICO frame",
+          "sha256": "b7cf71f5095b9d84ee0825698f5cbea5ab234f2f710f615cf7837da927aba9c6",
+          "bits_per_pixel": 32
+        },
+        "16": {
+          "path": "public/assets/icons/folder-16.png",
+          "method": "extracted native ICO frame",
+          "sha256": "2b6021f8a0c17f6e1976264e53576dbfc81cc84c3ee5c9bfa578efcd8206aacf",
+          "bits_per_pixel": 32
+        }
+      }
+    },
+    "drive": {
+      "source_page": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON32_1.ico",
+      "download_url": "https://raw.githubusercontent.com/bartekl1/windows-ui-assets/main/Icons/Windows%20Vista/ico/imageres.dll/ICON32_1.ico",
+      "source_repository": "windows-ui-assets",
+      "native_sizes": [
+        [
+          16,
+          16
+        ],
+        [
+          32,
+          32
+        ],
+        [
+          48,
+          48
+        ],
+        [
+          64,
+          64
+        ],
+        [
+          256,
+          256
+        ]
+      ],
+      "exports": {
+        "48": {
+          "path": "public/assets/icons/drive.png",
+          "method": "extracted native ICO frame",
+          "sha256": "c819d0c3232950ceb9297429e11f39f6dd3a09e4f650420a26bb41ef8c9a54cc",
+          "bits_per_pixel": 32
+        },
+        "16": {
+          "path": "public/assets/icons/drive-16.png",
+          "method": "extracted native ICO frame",
+          "sha256": "a38a4a742a7cb95e15c22724cbd3316a8d572454fc56cf65555455a495fda4ca",
+          "bits_per_pixel": 32
+        }
+      }
+    },
+    "recycle": {
+      "source_page": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON55_1.ico",
+      "download_url": "https://raw.githubusercontent.com/bartekl1/windows-ui-assets/main/Icons/Windows%20Vista/ico/imageres.dll/ICON55_1.ico",
+      "source_repository": "windows-ui-assets",
+      "native_sizes": [
+        [
+          16,
+          16
+        ],
+        [
+          24,
+          24
+        ],
+        [
+          32,
+          32
+        ],
+        [
+          48,
+          48
+        ],
+        [
+          256,
+          256
+        ]
+      ],
+      "exports": {
+        "48": {
+          "path": "public/assets/icons/recycle.png",
+          "method": "extracted native ICO frame",
+          "sha256": "cebe8d6fd7a64d7d4f9513b6ac86ba1f4a7186348443f194f85a3b480f96a64d",
+          "bits_per_pixel": 32
+        },
+        "16": {
+          "path": "public/assets/icons/recycle-16.png",
+          "method": "extracted native ICO frame",
+          "sha256": "ecc6e5df3dcca885b55e26885a88d4743ecfee5454b185a8effdde259fa60403",
+          "bits_per_pixel": 32
+        }
+      }
+    },
+    "recycle-full": {
+      "source_page": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON54_1.ico",
+      "download_url": "https://raw.githubusercontent.com/bartekl1/windows-ui-assets/main/Icons/Windows%20Vista/ico/imageres.dll/ICON54_1.ico",
+      "source_repository": "windows-ui-assets",
+      "native_sizes": [
+        [
+          16,
+          16
+        ],
+        [
+          24,
+          24
+        ],
+        [
+          32,
+          32
+        ],
+        [
+          48,
+          48
+        ],
+        [
+          256,
+          256
+        ]
+      ],
+      "exports": {
+        "48": {
+          "path": "public/assets/icons/recycle-full.png",
+          "method": "extracted native ICO frame",
+          "sha256": "652cee84bfec05a0d829abcf146fe867813bdc651f89ce47306b207d03c65adb",
+          "bits_per_pixel": 32
+        },
+        "16": {
+          "path": "public/assets/icons/recycle-full-16.png",
+          "method": "extracted native ICO frame",
+          "sha256": "21da4e79e882bdc1221a2d4d01073e807adf69111b7b2b7efe6bfaa4262a3c6f",
+          "bits_per_pixel": 32
+        }
+      }
+    },
+    "network": {
+      "source_page": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON25_1.ico",
+      "download_url": "https://raw.githubusercontent.com/bartekl1/windows-ui-assets/main/Icons/Windows%20Vista/ico/imageres.dll/ICON25_1.ico",
+      "source_repository": "windows-ui-assets",
+      "native_sizes": [
+        [
+          16,
+          16
+        ],
+        [
+          32,
+          32
+        ],
+        [
+          48,
+          48
+        ],
+        [
+          256,
+          256
+        ]
+      ],
+      "exports": {
+        "48": {
+          "path": "public/assets/icons/network.png",
+          "method": "extracted native ICO frame",
+          "sha256": "3aded77c662570c5b1817460eb41e1e305e768e8f1dbea6de73eb476fdefa592",
+          "bits_per_pixel": 32
+        },
+        "16": {
+          "path": "public/assets/icons/network-16.png",
+          "method": "extracted native ICO frame",
+          "sha256": "fb475e59486c89d15e543dfb7601a350189ba5fbf7b10f18eb2cc1589df90ddd",
+          "bits_per_pixel": 32
+        }
+      }
+    },
+    "control": {
+      "source_page": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON27_1.ico",
+      "download_url": "https://raw.githubusercontent.com/bartekl1/windows-ui-assets/main/Icons/Windows%20Vista/ico/imageres.dll/ICON27_1.ico",
+      "source_repository": "windows-ui-assets",
+      "native_sizes": [
+        [
+          16,
+          16
+        ],
+        [
+          32,
+          32
+        ],
+        [
+          48,
+          48
+        ],
+        [
+          64,
+          64
+        ],
+        [
+          256,
+          256
+        ]
+      ],
+      "exports": {
+        "48": {
+          "path": "public/assets/icons/control.png",
+          "method": "extracted native ICO frame",
+          "sha256": "4a63574d5abceacd2fe4bd1eb190b52a70bb16ac2998f316d21a44dc5fe50ad9",
+          "bits_per_pixel": 32
+        },
+        "16": {
+          "path": "public/assets/icons/control-16.png",
+          "method": "extracted native ICO frame",
+          "sha256": "d6cf3570103685a8d513221b084846acaf7b8df91192a8d7f580bb3a3d373fc2",
+          "bits_per_pixel": 32
+        }
+      }
+    },
+    "help": {
+      "source_page": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON99_1.ico",
+      "download_url": "https://raw.githubusercontent.com/bartekl1/windows-ui-assets/main/Icons/Windows%20Vista/ico/imageres.dll/ICON99_1.ico",
+      "source_repository": "windows-ui-assets",
+      "native_sizes": [
+        [
+          16,
+          16
+        ],
+        [
+          32,
+          32
+        ],
+        [
+          48,
+          48
+        ],
+        [
+          64,
+          64
+        ],
+        [
+          256,
+          256
+        ]
+      ],
+      "exports": {
+        "48": {
+          "path": "public/assets/icons/help.png",
+          "method": "extracted native ICO frame",
+          "sha256": "736c1e15d8b17c13484f0eb58e80bddf192b0291633f8bf813486f17463b7b57",
+          "bits_per_pixel": 32
+        },
+        "16": {
+          "path": "public/assets/icons/help-16.png",
+          "method": "extracted native ICO frame",
+          "sha256": "bf146ae050eba73d7e3a46a89651d170990062902ef06adcaacf7ba622cb0371",
+          "bits_per_pixel": 32
+        }
+      }
+    },
+    "search": {
+      "source_page": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON18_1.ico",
+      "download_url": "https://raw.githubusercontent.com/bartekl1/windows-ui-assets/main/Icons/Windows%20Vista/ico/imageres.dll/ICON18_1.ico",
+      "source_repository": "windows-ui-assets",
+      "native_sizes": [
+        [
+          16,
+          16
+        ],
+        [
+          32,
+          32
+        ],
+        [
+          48,
+          48
+        ],
+        [
+          64,
+          64
+        ],
+        [
+          256,
+          256
+        ]
+      ],
+      "exports": {
+        "48": {
+          "path": "public/assets/icons/search.png",
+          "method": "extracted native ICO frame",
+          "sha256": "5703a743f4a3389f18ffc19987a6b676e2aa6b7cf9fe827d69b0cf4a19a90f82",
+          "bits_per_pixel": 32
+        },
+        "16": {
+          "path": "public/assets/icons/search-16.png",
+          "method": "extracted native ICO frame",
+          "sha256": "ac6fc0742d733f87f91ddffcd633a31ed0a70875876431a033fe0b8260a22e62",
+          "bits_per_pixel": 32
+        }
+      }
+    },
+    "favorites": {
+      "source_page": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON115_1.ico",
+      "download_url": "https://raw.githubusercontent.com/bartekl1/windows-ui-assets/main/Icons/Windows%20Vista/ico/imageres.dll/ICON115_1.ico",
+      "source_repository": "windows-ui-assets",
+      "native_sizes": [
+        [
+          16,
+          16
+        ],
+        [
+          32,
+          32
+        ],
+        [
+          48,
+          48
+        ],
+        [
+          64,
+          64
+        ],
+        [
+          256,
+          256
+        ]
+      ],
+      "exports": {
+        "48": {
+          "path": "public/assets/icons/favorites.png",
+          "method": "extracted native ICO frame",
+          "sha256": "c8925fe1447c7a68a978d1b074a5114410bb306e6e42b9aef727ccfe7a6d2012",
+          "bits_per_pixel": 32
+        },
+        "16": {
+          "path": "public/assets/icons/favorites-16.png",
+          "method": "extracted native ICO frame",
+          "sha256": "8895bed8644f76471a94d0ae76594494d0963874029418990077ae2dd0f17ccc",
+          "bits_per_pixel": 32
+        }
+      }
+    },
+    "run": {
+      "source_page": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON100_1.ico",
+      "download_url": "https://raw.githubusercontent.com/bartekl1/windows-ui-assets/main/Icons/Windows%20Vista/ico/imageres.dll/ICON100_1.ico",
+      "source_repository": "windows-ui-assets",
+      "native_sizes": [
+        [
+          16,
+          16
+        ],
+        [
+          32,
+          32
+        ],
+        [
+          48,
+          48
+        ],
+        [
+          64,
+          64
+        ],
+        [
+          256,
+          256
+        ]
+      ],
+      "exports": {
+        "48": {
+          "path": "public/assets/icons/run.png",
+          "method": "extracted native ICO frame",
+          "sha256": "7238ba42182ae1205234461a80c32d7781469584b6b9d0054ad2d71986873677",
+          "bits_per_pixel": 32
+        },
+        "16": {
+          "path": "public/assets/icons/run-16.png",
+          "method": "extracted native ICO frame",
+          "sha256": "ceba1534cee5ce2e00b32c2b50feca9801e7bacfd7aeb18332fd35fbe507ecbb",
+          "bits_per_pixel": 32
+        }
+      }
+    },
+    "security": {
+      "source_page": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON78_1.ico",
+      "download_url": "https://raw.githubusercontent.com/bartekl1/windows-ui-assets/main/Icons/Windows%20Vista/ico/imageres.dll/ICON78_1.ico",
+      "source_repository": "windows-ui-assets",
+      "native_sizes": [
+        [
+          8,
+          8
+        ],
+        [
+          16,
+          16
+        ],
+        [
+          24,
+          24
+        ],
+        [
+          32,
+          32
+        ],
+        [
+          48,
+          48
+        ],
+        [
+          128,
+          128
+        ],
+        [
+          256,
+          256
+        ]
+      ],
+      "exports": {
+        "48": {
+          "path": "public/assets/icons/security.png",
+          "method": "extracted native ICO frame",
+          "sha256": "0d477e3371eb9867fb141a9f9a55b5a031da97a822a35d48984a0eceba64a725",
+          "bits_per_pixel": 32
+        },
+        "16": {
+          "path": "public/assets/icons/security-16.png",
+          "method": "extracted native ICO frame",
+          "sha256": "18f451d7ad32c81c11845c984960ccc33142bfdce91830e7c002af021288a97b",
+          "bits_per_pixel": 32
+        }
+      }
+    },
+    "users": {
+      "source_page": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON88_1.ico",
+      "download_url": "https://raw.githubusercontent.com/bartekl1/windows-ui-assets/main/Icons/Windows%20Vista/ico/imageres.dll/ICON88_1.ico",
+      "source_repository": "windows-ui-assets",
+      "native_sizes": [
+        [
+          16,
+          16
+        ],
+        [
+          32,
+          32
+        ],
+        [
+          48,
+          48
+        ],
+        [
+          256,
+          256
+        ]
+      ],
+      "exports": {
+        "48": {
+          "path": "public/assets/icons/users.png",
+          "method": "extracted native ICO frame",
+          "sha256": "cb830194cc8c328869125706b518d35f74438c8b03f159dc2b1dc538b3488c8a",
+          "bits_per_pixel": 32
+        },
+        "16": {
+          "path": "public/assets/icons/users-16.png",
+          "method": "extracted native ICO frame",
+          "sha256": "2960e6678ddedffe39b4fce75c9517f0e284bdce181fdf06e57c75391d44cf44",
+          "bits_per_pixel": 32
+        }
+      }
+    },
+    "desktop": {
+      "source_page": "https://github.com/bartekl1/windows-ui-assets/blob/main/Icons/Windows%20Vista/ico/imageres.dll/ICON110_1.ico",
+      "download_url": "https://raw.githubusercontent.com/bartekl1/windows-ui-assets/main/Icons/Windows%20Vista/ico/imageres.dll/ICON110_1.ico",
+      "source_repository": "windows-ui-assets",
+      "native_sizes": [
+        [
+          16,
+          16
+        ],
+        [
+          32,
+          32
+        ],
+        [
+          48,
+          48
+        ],
+        [
+          256,
+          256
+        ]
+      ],
+      "exports": {
+        "48": {
+          "path": "public/assets/icons/desktop.png",
+          "method": "extracted native ICO frame",
+          "sha256": "e4002bb20ca7afc6ec57ed19c2dd18a92749c4d528ecde8e2d26688c19e672f1",
+          "bits_per_pixel": 32
+        },
+        "16": {
+          "path": "public/assets/icons/desktop-16.png",
+          "method": "extracted native ICO frame",
+          "sha256": "d00a1a12fee6f1b77cf00715061cc228846d2a53d37b75c30479dcb5fe84a75d",
+          "bits_per_pixel": 32
+        }
+      }
+    },
+    "notepad": {
+      "source_page": "https://github.com/gsnoopy/react-old-icons/blob/main/PNG/WindowsVistaNotepad.png",
+      "download_url": "https://raw.githubusercontent.com/gsnoopy/react-old-icons/main/PNG/WindowsVistaNotepad.png",
+      "source_repository": "react-old-icons",
+      "original_size": [
+        540,
+        500
+      ],
+      "native_icon_crop": [
+        142,
+        122,
+        398,
+        378
+      ],
+      "exports": {
+        "48": {
+          "path": "public/assets/icons/notepad.png",
+          "method": "center 256px original icon extracted, then downsampled with Lanczos",
+          "sha256": "eb577d6347a9895263b0214cecc97ce0587ce785eaee088247c24d638d10dbaa"
+        },
+        "16": {
+          "path": "public/assets/icons/notepad-16.png",
+          "method": "center 256px original icon extracted, then downsampled with Lanczos",
+          "sha256": "46b6348b0c130b397284604bd2a24c0a3f3aab1f51a08c42b6c135ad2047c12d"
+        }
+      }
+    },
+    "paint": {
+      "source_page": "https://github.com/gsnoopy/react-old-icons/blob/main/PNG/WindowsVistaPaint.png",
+      "download_url": "https://raw.githubusercontent.com/gsnoopy/react-old-icons/main/PNG/WindowsVistaPaint.png",
+      "source_repository": "react-old-icons",
+      "original_size": [
+        540,
+        500
+      ],
+      "native_icon_crop": [
+        142,
+        122,
+        398,
+        378
+      ],
+      "exports": {
+        "48": {
+          "path": "public/assets/icons/paint.png",
+          "method": "center 256px original icon extracted, then downsampled with Lanczos",
+          "sha256": "370e1f5382af1cd6e31adfe2d50102a16480a217b063e588b4e2d58e9ec3a65d"
+        },
+        "16": {
+          "path": "public/assets/icons/paint-16.png",
+          "method": "center 256px original icon extracted, then downsampled with Lanczos",
+          "sha256": "e48ce6d2d8970d58f5641088cdccb5a7e74944aecb107f8081a4818873c08c73"
+        }
+      }
+    },
+    "calculator": {
+      "source_page": "https://github.com/gsnoopy/react-old-icons/blob/main/PNG/WindowsVistaCalculator.png",
+      "download_url": "https://raw.githubusercontent.com/gsnoopy/react-old-icons/main/PNG/WindowsVistaCalculator.png",
+      "source_repository": "react-old-icons",
+      "original_size": [
+        540,
+        500
+      ],
+      "native_icon_crop": [
+        142,
+        122,
+        398,
+        378
+      ],
+      "exports": {
+        "48": {
+          "path": "public/assets/icons/calculator.png",
+          "method": "center 256px original icon extracted, then downsampled with Lanczos",
+          "sha256": "1c26f8081a327c91ef3253e9c84fb0e8930374ca50b46a07ee2ec291d27f04aa"
+        },
+        "16": {
+          "path": "public/assets/icons/calculator-16.png",
+          "method": "center 256px original icon extracted, then downsampled with Lanczos",
+          "sha256": "bae38541dba6e83b6da864f2049bc0a722d9d3b05a01b74506007acd8cde2d1f"
+        }
+      }
+    },
+    "media": {
+      "source_page": "https://github.com/gsnoopy/react-old-icons/blob/main/PNG/WindowsVistaMediaPlayer.png",
+      "download_url": "https://raw.githubusercontent.com/gsnoopy/react-old-icons/main/PNG/WindowsVistaMediaPlayer.png",
+      "source_repository": "react-old-icons",
+      "original_size": [
+        540,
+        500
+      ],
+      "native_icon_crop": [
+        142,
+        122,
+        398,
+        378
+      ],
+      "exports": {
+        "48": {
+          "path": "public/assets/icons/media.png",
+          "method": "center 256px original icon extracted, then downsampled with Lanczos",
+          "sha256": "9dbd1fc49e698bc91b871f2d57d41db557659588d7feda6159235fcc075da98d"
+        },
+        "16": {
+          "path": "public/assets/icons/media-16.png",
+          "method": "center 256px original icon extracted, then downsampled with Lanczos",
+          "sha256": "7be4cad647f13c6943355c21162d4719abb5ba9aa5e9f778eb1da1e6cdbff98f"
+        },
+        "256": {
+          "path": "public/assets/icons/media-large.png",
+          "method": "extracted original centered 256px icon without resampling",
+          "sha256": "e8b6c2732da820ab50b7dca84a190e671ccb8b8435e623695bea4675b2a77703"
+        }
+      }
+    },
+    "games": {
+      "source_page": "https://github.com/gsnoopy/react-old-icons/blob/main/PNG/WindowsVistaGameExplorer.png",
+      "download_url": "https://raw.githubusercontent.com/gsnoopy/react-old-icons/main/PNG/WindowsVistaGameExplorer.png",
+      "source_repository": "react-old-icons",
+      "original_size": [
+        540,
+        500
+      ],
+      "native_icon_crop": [
+        142,
+        122,
+        398,
+        378
+      ],
+      "exports": {
+        "48": {
+          "path": "public/assets/icons/games.png",
+          "method": "center 256px original icon extracted, then downsampled with Lanczos",
+          "sha256": "79a7354c6304cfba15defb43623f84bb1576c2393534de2df659f664ca95fa92"
+        },
+        "16": {
+          "path": "public/assets/icons/games-16.png",
+          "method": "center 256px original icon extracted, then downsampled with Lanczos",
+          "sha256": "309dddaead76f47b24a6935c9c0a8ca130675ee2621e1fcffbd2958302e9cf4c"
+        }
+      }
+    },
+    "calendar": {
+      "source_page": "https://github.com/gsnoopy/react-old-icons/blob/main/PNG/WindowsVistaCalendar.png",
+      "download_url": "https://raw.githubusercontent.com/gsnoopy/react-old-icons/main/PNG/WindowsVistaCalendar.png",
+      "source_repository": "react-old-icons",
+      "original_size": [
+        540,
+        500
+      ],
+      "native_icon_crop": [
+        142,
+        122,
+        398,
+        378
+      ],
+      "exports": {
+        "48": {
+          "path": "public/assets/icons/calendar.png",
+          "method": "center 256px original icon extracted, then downsampled with Lanczos",
+          "sha256": "a25bb8adc271b3363e137060313e9ebc641920e5c7484c7b1fa32fb492353929"
+        },
+        "16": {
+          "path": "public/assets/icons/calendar-16.png",
+          "method": "center 256px original icon extracted, then downsampled with Lanczos",
+          "sha256": "cbb9619df2a7540ec0db348939e93cf9fabcd39c6063e52b7c9c56d5bb94f0d3"
+        }
+      }
+    },
+    "mail": {
+      "source_page": "https://github.com/gsnoopy/react-old-icons/blob/main/PNG/WindowsVistaMail.png",
+      "download_url": "https://raw.githubusercontent.com/gsnoopy/react-old-icons/main/PNG/WindowsVistaMail.png",
+      "source_repository": "react-old-icons",
+      "original_size": [
+        540,
+        500
+      ],
+      "native_icon_crop": [
+        142,
+        122,
+        398,
+        378
+      ],
+      "exports": {
+        "48": {
+          "path": "public/assets/icons/mail.png",
+          "method": "center 256px original icon extracted, then downsampled with Lanczos",
+          "sha256": "25038de73d1eea919e1dff83a743c70fed254a7afc1f04857ab7e361eac3caba"
+        },
+        "16": {
+          "path": "public/assets/icons/mail-16.png",
+          "method": "center 256px original icon extracted, then downsampled with Lanczos",
+          "sha256": "7222eaee7b8bc0090ec3c6579ad95e19f47bf22560992d7e63c62d37a6f62ae7"
+        }
+      }
+    },
+    "contacts": {
+      "source_page": "https://github.com/gsnoopy/react-old-icons/blob/main/PNG/WindowsVistaContacts.png",
+      "download_url": "https://raw.githubusercontent.com/gsnoopy/react-old-icons/main/PNG/WindowsVistaContacts.png",
+      "source_repository": "react-old-icons",
+      "original_size": [
+        540,
+        500
+      ],
+      "native_icon_crop": [
+        142,
+        122,
+        398,
+        378
+      ],
+      "exports": {
+        "48": {
+          "path": "public/assets/icons/contacts.png",
+          "method": "center 256px original icon extracted, then downsampled with Lanczos",
+          "sha256": "5df57e7d21448512f62414f951fea997f9c22c00172be8bc0b36ac9dd8f6e005"
+        },
+        "16": {
+          "path": "public/assets/icons/contacts-16.png",
+          "method": "center 256px original icon extracted, then downsampled with Lanczos",
+          "sha256": "2df45cbac6df83d15bc19bcd07fdf790b83c75315ad712ecf91effaa7493ba5e"
+        }
+      }
+    },
+    "wordpad": {
+      "source_page": "https://github.com/gsnoopy/react-old-icons/blob/main/PNG/WindowsVistaWordPad.png",
+      "download_url": "https://raw.githubusercontent.com/gsnoopy/react-old-icons/main/PNG/WindowsVistaWordPad.png",
+      "source_repository": "react-old-icons",
+      "original_size": [
+        540,
+        500
+      ],
+      "native_icon_crop": [
+        142,
+        122,
+        398,
+        378
+      ],
+      "exports": {
+        "48": {
+          "path": "public/assets/icons/wordpad.png",
+          "method": "center 256px original icon extracted, then downsampled with Lanczos",
+          "sha256": "357ddf778170c9300aa008fa6620dc01a59fc61bed9111cc168905145e322852"
+        },
+        "16": {
+          "path": "public/assets/icons/wordpad-16.png",
+          "method": "center 256px original icon extracted, then downsampled with Lanczos",
+          "sha256": "002b4ecf51d8d0a8efbce2c1fb8ac0624b19158cf977e3e855366cdd7e7f4eac"
+        }
+      }
+    },
+    "personalization": {
+      "source_page": "https://github.com/gsnoopy/react-old-icons/blob/main/PNG/WindowsVistaPersonalization.png",
+      "download_url": "https://raw.githubusercontent.com/gsnoopy/react-old-icons/main/PNG/WindowsVistaPersonalization.png",
+      "source_repository": "react-old-icons",
+      "original_size": [
+        540,
+        500
+      ],
+      "native_icon_crop": [
+        142,
+        122,
+        398,
+        378
+      ],
+      "exports": {
+        "48": {
+          "path": "public/assets/icons/personalization.png",
+          "method": "center 256px original icon extracted, then downsampled with Lanczos",
+          "sha256": "4edadb95b8a0e23df6ff5c638058bc92792bf8c71a23b4ffee42b2e9f2c5cee4"
+        },
+        "16": {
+          "path": "public/assets/icons/personalization-16.png",
+          "method": "center 256px original icon extracted, then downsampled with Lanczos",
+          "sha256": "cee42cd71a2d7739b0ca31a6086811f9837a699e58f237ce387ead59ce7b1c11"
+        }
+      }
+    },
+    "solitaire": {
+      "source_page": "https://github.com/gsnoopy/react-old-icons/blob/main/PNG/WindowsVistaSolitaire.png",
+      "download_url": "https://raw.githubusercontent.com/gsnoopy/react-old-icons/main/PNG/WindowsVistaSolitaire.png",
+      "source_repository": "react-old-icons",
+      "original_size": [
+        540,
+        500
+      ],
+      "native_icon_crop": [
+        142,
+        122,
+        398,
+        378
+      ],
+      "exports": {
+        "48": {
+          "path": "public/assets/icons/solitaire.png",
+          "method": "center 256px original icon extracted, then downsampled with Lanczos",
+          "sha256": "42c97eb6d6b67e18f37d2d6aa79a080c14163d3ec236d984531ec9ec6c99645a"
+        },
+        "16": {
+          "path": "public/assets/icons/solitaire-16.png",
+          "method": "center 256px original icon extracted, then downsampled with Lanczos",
+          "sha256": "381db5f9b14b04a73e2527fc515e32d57382abf871d7bcd933011e52764f6ef0"
+        }
+      }
+    },
+    "freecell": {
+      "source_page": "https://github.com/gsnoopy/react-old-icons/blob/main/PNG/WindowsVistaFreeCell.png",
+      "download_url": "https://raw.githubusercontent.com/gsnoopy/react-old-icons/main/PNG/WindowsVistaFreeCell.png",
+      "source_repository": "react-old-icons",
+      "original_size": [
+        540,
+        500
+      ],
+      "native_icon_crop": [
+        142,
+        122,
+        398,
+        378
+      ],
+      "exports": {
+        "48": {
+          "path": "public/assets/icons/freecell.png",
+          "method": "center 256px original icon extracted, then downsampled with Lanczos",
+          "sha256": "5203db700d2ad4ac5d89c6a297039b643d20c9739995d63a47550f5e47d313f5"
+        },
+        "16": {
+          "path": "public/assets/icons/freecell-16.png",
+          "method": "center 256px original icon extracted, then downsampled with Lanczos",
+          "sha256": "6aa535fea472cefb7f1d886c9ca690f852104f42d795485897105fe5492f4e6c"
+        }
+      }
+    },
+    "hearts": {
+      "source_page": "https://github.com/gsnoopy/react-old-icons/blob/main/PNG/WindowsVistaHearts.png",
+      "download_url": "https://raw.githubusercontent.com/gsnoopy/react-old-icons/main/PNG/WindowsVistaHearts.png",
+      "source_repository": "react-old-icons",
+      "original_size": [
+        540,
+        500
+      ],
+      "native_icon_crop": [
+        142,
+        122,
+        398,
+        378
+      ],
+      "exports": {
+        "48": {
+          "path": "public/assets/icons/hearts.png",
+          "method": "center 256px original icon extracted, then downsampled with Lanczos",
+          "sha256": "efd8ec2ff8c01a577c003c3dfb6c8f885a3fec61d3a8ef14f876eb97acb361f6"
+        },
+        "16": {
+          "path": "public/assets/icons/hearts-16.png",
+          "method": "center 256px original icon extracted, then downsampled with Lanczos",
+          "sha256": "0500b511809b68f656b641ec268444d7093fdad2a2b55357412b22db396ffa28"
+        }
+      }
+    },
+    "spider": {
+      "source_page": "https://github.com/gsnoopy/react-old-icons/blob/main/PNG/WindowsVistaSpiderSolitaire.png",
+      "download_url": "https://raw.githubusercontent.com/gsnoopy/react-old-icons/main/PNG/WindowsVistaSpiderSolitaire.png",
+      "source_repository": "react-old-icons",
+      "original_size": [
+        540,
+        500
+      ],
+      "native_icon_crop": [
+        142,
+        122,
+        398,
+        378
+      ],
+      "exports": {
+        "48": {
+          "path": "public/assets/icons/spider.png",
+          "method": "center 256px original icon extracted, then downsampled with Lanczos",
+          "sha256": "9808349aa675213e14376bb8ce488d853f26e1c7f9d99705d3255d17eed6110d"
+        },
+        "16": {
+          "path": "public/assets/icons/spider-16.png",
+          "method": "center 256px original icon extracted, then downsampled with Lanczos",
+          "sha256": "dd47425c70c4afe6998fd279b9d8e94ad0739fdf5609559a6071a9406ff7556d"
+        }
+      }
+    },
+    "chess": {
+      "source_page": "https://github.com/gsnoopy/react-old-icons/blob/main/PNG/ChessTitans.png",
+      "download_url": "https://raw.githubusercontent.com/gsnoopy/react-old-icons/main/PNG/ChessTitans.png",
+      "source_repository": "react-old-icons",
+      "original_size": [
+        540,
+        500
+      ],
+      "native_icon_crop": [
+        142,
+        122,
+        398,
+        378
+      ],
+      "exports": {
+        "48": {
+          "path": "public/assets/icons/chess.png",
+          "method": "center 256px original icon extracted, then downsampled with Lanczos",
+          "sha256": "4a6345fc06d6da38edec82d070ff4c529b9321e3a640afa88b223e08a066ba33"
+        },
+        "16": {
+          "path": "public/assets/icons/chess-16.png",
+          "method": "center 256px original icon extracted, then downsampled with Lanczos",
+          "sha256": "ed11b91e73ded682a20999171660b37817fac11ecbfa50e74c7dced02c3d0021"
+        }
+      }
+    },
+    "purble": {
+      "source_page": "https://github.com/gsnoopy/react-old-icons/blob/main/PNG/PurblePlace.png",
+      "download_url": "https://raw.githubusercontent.com/gsnoopy/react-old-icons/main/PNG/PurblePlace.png",
+      "source_repository": "react-old-icons",
+      "original_size": [
+        540,
+        500
+      ],
+      "native_icon_crop": [
+        142,
+        122,
+        398,
+        378
+      ],
+      "exports": {
+        "48": {
+          "path": "public/assets/icons/purble.png",
+          "method": "center 256px original icon extracted, then downsampled with Lanczos",
+          "sha256": "6852f26489e3adf617f947bdb54822639f3085d13a1050e46f575b532dc990da"
+        },
+        "16": {
+          "path": "public/assets/icons/purble-16.png",
+          "method": "center 256px original icon extracted, then downsampled with Lanczos",
+          "sha256": "8aa33b8965d247fa9a14eee851e0dc85a779028d9a33d5923d7443327f09314e"
+        }
+      }
+    },
+    "inkball": {
+      "source_page": "https://github.com/gsnoopy/react-old-icons/blob/main/PNG/Inkball.png",
+      "download_url": "https://raw.githubusercontent.com/gsnoopy/react-old-icons/main/PNG/Inkball.png",
+      "source_repository": "react-old-icons",
+      "original_size": [
+        540,
+        500
+      ],
+      "native_icon_crop": [
+        142,
+        122,
+        398,
+        378
+      ],
+      "exports": {
+        "48": {
+          "path": "public/assets/icons/inkball.png",
+          "method": "center 256px original icon extracted, then downsampled with Lanczos",
+          "sha256": "09e78d43c936082be8323246419e495dc871ddbcdef8d234948864c4390a7965"
+        },
+        "16": {
+          "path": "public/assets/icons/inkball-16.png",
+          "method": "center 256px original icon extracted, then downsampled with Lanczos",
+          "sha256": "1b725cee24768c4cf7debefd463981127e7409610de44289310285cb66fa64ae"
+        }
+      }
+    },
+    "ie": {
+      "source_page": "https://github.com/gsnoopy/react-old-icons/blob/main/PNG/InternetExplorer13.png",
+      "download_url": "https://raw.githubusercontent.com/gsnoopy/react-old-icons/main/PNG/InternetExplorer13.png",
+      "source_repository": "react-old-icons",
+      "original_size": [
+        540,
+        500
+      ],
+      "native_icon_crop": [
+        142,
+        122,
+        398,
+        378
+      ],
+      "identification_note": "Visually verified glossy Internet Explorer 7/8 icon (thick gold orbit, deep blue shaded e); repository suffix is not a version identifier. Do not use InternetExplorer9.png, which is the flatter IE9 icon.",
+      "exports": {
+        "48": {
+          "path": "public/assets/icons/ie.png",
+          "method": "center 256px original icon extracted, then downsampled with Lanczos",
+          "sha256": "aa88a6b4eddfa786b53cabb79ecfae6e36eb886f019cad1b73f6cea131cc1bb2"
+        },
+        "16": {
+          "path": "public/assets/icons/ie-16.png",
+          "method": "center 256px original icon extracted, then downsampled with Lanczos",
+          "sha256": "c7d2774672cab11271c4d32a2f0ec728648ce1e7dc707380794b182ba3d59922"
+        }
+      }
+    }
+  },
+  "wallpapers": {
+    "vista-default.jpg": {
+      "path": "/workspace/scratch/vista-assets/vista-default.jpg",
+      "dimensions": [
+        1920,
+        1440
+      ],
+      "source_page": "https://github.com/bartekl1/windows-ui-assets/blob/main/Wallpapers/Windows%20Vista/Desktop/img24.jpg",
+      "download_url": "https://raw.githubusercontent.com/bartekl1/windows-ui-assets/main/Wallpapers/Windows%20Vista/Desktop/img24.jpg",
+      "method": "unmodified original download",
+      "sha256": "2dddd4a16d315f061e60a5859f982429898096bd173f4cbaaa3a8d47ccae2f8f"
+    },
+    "vista-default-widescreen.jpg": {
+      "path": "/workspace/scratch/vista-assets/vista-default-widescreen.jpg",
+      "dimensions": [
+        1920,
+        1200
+      ],
+      "source_page": "https://github.com/bartekl1/windows-ui-assets/blob/main/Wallpapers/Windows%20Vista/Desktop/img36.jpg",
+      "download_url": "https://raw.githubusercontent.com/bartekl1/windows-ui-assets/main/Wallpapers/Windows%20Vista/Desktop/img36.jpg",
+      "method": "unmodified original download",
+      "sha256": "77fd927332fcec551233871031755589aa1796c9ca424cf3f31b1d155cd61285"
+    },
+    "photos/lake.jpg": {
+      "path": "/workspace/scratch/vista-assets/photos/lake.jpg",
+      "dimensions": [
+        1920,
+        1440
+      ],
+      "source_page": "https://github.com/bartekl1/windows-ui-assets/blob/main/Wallpapers/Windows%20Vista/Desktop/img22.jpg",
+      "download_url": "https://raw.githubusercontent.com/bartekl1/windows-ui-assets/main/Wallpapers/Windows%20Vista/Desktop/img22.jpg",
+      "method": "unmodified original Vista wallpaper",
+      "sha256": "292e326feccbb47bc2fc41a22edf28ea02257bf05871d28ebab893cabe66232a"
+    },
+    "photos/landscape.jpg": {
+      "path": "/workspace/scratch/vista-assets/photos/landscape.jpg",
+      "dimensions": [
+        1920,
+        1440
+      ],
+      "source_page": "https://github.com/bartekl1/windows-ui-assets/blob/main/Wallpapers/Windows%20Vista/Desktop/img21.jpg",
+      "download_url": "https://raw.githubusercontent.com/bartekl1/windows-ui-assets/main/Wallpapers/Windows%20Vista/Desktop/img21.jpg",
+      "method": "unmodified original Vista wallpaper",
+      "sha256": "da6452b01856f18f9b9f2e983953bdc5ae0c824a9da0f4776d5c78bff0d3bfc5"
+    }
+  },
+  "font_note": "Neither selected asset repository includes Segoe UI fonts. No font was downloaded.",
+  "pending": [],
+  "unavailable": {
+    "taskmanager": "Selected repositories do not contain a verified Vista Task Manager icon. WindowsTask.png is the older CRT Task Manager artwork and was deliberately not exported as taskmanager. The available Fandom Vista/7 source could be read as a page but its image was inaccessible.",
+    "font": "Segoe UI is absent from both selected repositories.",
+    "forest": "No verified native Vista forest sample photo was downloadable from selected sources. The native Vista lake and landscape wallpapers are included instead.",
+    "terminal": "The verified Vista-labelled PNGEgg image URL served an opaque checkerboard preview, so it was not exported. The other candidate is explicitly labelled Windows XP in the source metadata and was not substituted."
+  },
+  "orb": {
+    "path": "/workspace/scratch/vista-assets/start-orb-vista-sprite.png",
+    "dimensions": [
+      60,
+      138
+    ],
+    "states": [
+      "normal",
+      "hover",
+      "pressed"
+    ],
+    "state_height": 46,
+    "method": "unmodified original sprite",
+    "source_page": "https://coddec.github.io/Classic-Shell/www.classicshell.net/forum/viewtopicab93.html?f=18&t=3207",
+    "download_url": "https://coddec.github.io/Classic-Shell/www.classicshell.net/forum/download/file688e.png?id=4345",
+    "normal": {
+      "path": "/workspace/scratch/vista-assets/start-orb-normal.png",
+      "dimensions": [
+        46,
+        46
+      ],
+      "method": "native sprite frame extracted without resampling",
+      "crop": [
+        7,
+        0,
+        53,
+        46
+      ]
+    },
+    "hover": {
+      "path": "/workspace/scratch/vista-assets/start-orb-hover.png",
+      "dimensions": [
+        46,
+        46
+      ],
+      "method": "native sprite frame extracted without resampling",
+      "crop": [
+        7,
+        46,
+        53,
+        92
+      ]
+    },
+    "pressed": {
+      "path": "/workspace/scratch/vista-assets/start-orb-pressed.png",
+      "dimensions": [
+        46,
+        46
+      ],
+      "method": "native sprite frame extracted without resampling",
+      "crop": [
+        7,
+        92,
+        53,
+        138
+      ]
+    }
+  },
+  "sounds": {
+    "startup": {
+      "path": "/workspace/scratch/vista-assets/sounds/startup.wav",
+      "original_filename": "Windows Startup.wav",
+      "source_page": "https://github.com/bartekl1/windows-ui-assets/blob/main/Sounds/Windows%20Vista/Windows%20Startup.wav",
+      "download_url": "https://raw.githubusercontent.com/bartekl1/windows-ui-assets/main/Sounds/Windows%20Vista/Windows%20Startup.wav",
+      "bytes": 38380,
+      "sha256": "deecc7613e7f26550a866b386875366f190fb00ac9484029bb1d0bd1274b344e",
+      "method": "unmodified original download",
+      "channels": 2,
+      "sample_rate": 44100,
+      "sample_width_bytes": 2,
+      "frames": 9584,
+      "duration_seconds": 0.2173
+    },
+    "logon": {
+      "path": "/workspace/scratch/vista-assets/sounds/logon.wav",
+      "original_filename": "Windows Logon Sound.wav",
+      "source_page": "https://github.com/bartekl1/windows-ui-assets/blob/main/Sounds/Windows%20Vista/Windows%20Logon%20Sound.wav",
+      "download_url": "https://raw.githubusercontent.com/bartekl1/windows-ui-assets/main/Sounds/Windows%20Vista/Windows%20Logon%20Sound.wav",
+      "bytes": 207148,
+      "sha256": "2188c09d0cf64b7eb870c67ce3dd09167589e9d286f488742b2342571d0f8a99",
+      "method": "unmodified original download",
+      "channels": 2,
+      "sample_rate": 44100,
+      "sample_width_bytes": 2,
+      "frames": 51776,
+      "duration_seconds": 1.1741
+    },
+    "click": {
+      "path": "/workspace/scratch/vista-assets/sounds/click.wav",
+      "original_filename": "Windows Navigation Start.wav",
+      "source_page": "https://github.com/bartekl1/windows-ui-assets/blob/main/Sounds/Windows%20Vista/Windows%20Navigation%20Start.wav",
+      "download_url": "https://raw.githubusercontent.com/bartekl1/windows-ui-assets/main/Sounds/Windows%20Vista/Windows%20Navigation%20Start.wav",
+      "bytes": 11340,
+      "sha256": "682c8a7cf410de17c249775aee568ec1f9e3341bd4409e96ccbba4882f1d8670",
+      "method": "unmodified original download",
+      "channels": 2,
+      "sample_rate": 44100,
+      "sample_width_bytes": 2,
+      "frames": 2824,
+      "duration_seconds": 0.064
+    },
+    "menu": {
+      "path": "/workspace/scratch/vista-assets/sounds/menu.wav",
+      "original_filename": "Windows Menu Command.wav",
+      "source_page": "https://github.com/bartekl1/windows-ui-assets/blob/main/Sounds/Windows%20Vista/Windows%20Menu%20Command.wav",
+      "download_url": "https://raw.githubusercontent.com/bartekl1/windows-ui-assets/main/Sounds/Windows%20Vista/Windows%20Menu%20Command.wav",
+      "bytes": 26124,
+      "sha256": "66bcd3c2c60a62709131233d4eea48f7d53f7fdfe22dd5dcb0d03b3f94c48ad1",
+      "method": "unmodified original download",
+      "channels": 2,
+      "sample_rate": 44100,
+      "sample_width_bytes": 2,
+      "frames": 6520,
+      "duration_seconds": 0.1478
+    },
+    "error": {
+      "path": "/workspace/scratch/vista-assets/sounds/error.wav",
+      "original_filename": "Windows Error.wav",
+      "source_page": "https://github.com/bartekl1/windows-ui-assets/blob/main/Sounds/Windows%20Vista/Windows%20Error.wav",
+      "download_url": "https://raw.githubusercontent.com/bartekl1/windows-ui-assets/main/Sounds/Windows%20Vista/Windows%20Error.wav",
+      "bytes": 171564,
+      "sha256": "217e7bbcba8b6f5af6b4ceb03f11b5d8393862b7aae56db6278911968a48c8b2",
+      "method": "unmodified original download",
+      "channels": 2,
+      "sample_rate": 44100,
+      "sample_width_bytes": 2,
+      "frames": 42880,
+      "duration_seconds": 0.9723
+    },
+    "critical-stop": {
+      "path": "/workspace/scratch/vista-assets/sounds/critical-stop.wav",
+      "original_filename": "Windows Critical Stop.wav",
+      "source_page": "https://github.com/bartekl1/windows-ui-assets/blob/main/Sounds/Windows%20Vista/Windows%20Critical%20Stop.wav",
+      "download_url": "https://raw.githubusercontent.com/bartekl1/windows-ui-assets/main/Sounds/Windows%20Vista/Windows%20Critical%20Stop.wav",
+      "bytes": 159276,
+      "sha256": "27dc9782ffaa29c830158374afb9370f4df32d03b592e83251b55e0a8e972b98",
+      "method": "unmodified original download",
+      "channels": 2,
+      "sample_rate": 44100,
+      "sample_width_bytes": 2,
+      "frames": 39808,
+      "duration_seconds": 0.9027
+    },
+    "recycle": {
+      "path": "/workspace/scratch/vista-assets/sounds/recycle.wav",
+      "original_filename": "Windows Recycle.wav",
+      "source_page": "https://github.com/bartekl1/windows-ui-assets/blob/main/Sounds/Windows%20Vista/Windows%20Recycle.wav",
+      "download_url": "https://raw.githubusercontent.com/bartekl1/windows-ui-assets/main/Sounds/Windows%20Vista/Windows%20Recycle.wav",
+      "bytes": 95404,
+      "sha256": "f1eb9d205799a5b803b1df4de4e8feb54acd1a9ac9f3732b1a17a0cff02d71a7",
+      "method": "unmodified original download",
+      "channels": 2,
+      "sample_rate": 44100,
+      "sample_width_bytes": 2,
+      "frames": 23840,
+      "duration_seconds": 0.5406
+    }
+  }
+}

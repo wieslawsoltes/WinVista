@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="A modular Windows Vista-inspired browser desktop with Aero windows and integrated applications."
+    />
+    <meta name="theme-color" content="#0e5265" />
+    <title>Windows Vista — Aero Desktop</title>
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <link rel="stylesheet" href="./packages/theme/index.css" />
+    <link rel="preload" as="image" href="./assets/wallpaper.jpg" />
+  </head>
+  <body>
+    <main id="vista-root" aria-label="Windows Vista desktop"></main>
+    <noscript>This desktop requires JavaScript.</noscript>
+    <script type="module">
+      import { createDesktop } from "./packages/shell/index.js";
+      const root = document.getElementById("vista-root");
+      createDesktop(root).catch((error) => {
+        root.textContent = "The desktop could not start: " + error.message;
+        console.error(error);
+      });
+    </script>
+  </body>
+</html>

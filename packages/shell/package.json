@@ -1,0 +1,26 @@
+{
+  "name": "@vista/shell",
+  "version": "1.0.0",
+  "type": "module",
+  "license": "MIT",
+  "exports": {
+    ".": "./index.js"
+  },
+  "sideEffects": false,
+  "files": [
+    "*.js",
+    "*.css"
+  ],
+  "dependencies": {
+    "@vista/apps-accessories": "workspace:*",
+    "@vista/apps-explorer": "workspace:*",
+    "@vista/apps-games": "workspace:*",
+    "@vista/apps-media": "workspace:*",
+    "@vista/apps-productivity": "workspace:*",
+    "@vista/apps-system": "workspace:*",
+    "@vista/core": "workspace:*",
+    "@vista/renderer": "workspace:*",
+    "@vista/ui": "workspace:*",
+    "@vista/window-manager": "workspace:*"
+  }
+}

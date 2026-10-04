@@ -1,0 +1,18 @@
+{
+  "name": "@vista/window-manager",
+  "version": "1.0.0",
+  "type": "module",
+  "license": "MIT",
+  "exports": {
+    ".": "./index.js"
+  },
+  "sideEffects": false,
+  "files": [
+    "*.js",
+    "*.css"
+  ],
+  "dependencies": {
+    "@vista/core": "workspace:*",
+    "@vista/ui": "workspace:*"
+  }
+}

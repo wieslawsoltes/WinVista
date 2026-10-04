@@ -1,0 +1,14 @@
+{
+  "name": "@vista/theme",
+  "version": "1.0.0",
+  "type": "module",
+  "license": "MIT",
+  "exports": {
+    ".": "./index.css"
+  },
+  "sideEffects": true,
+  "files": [
+    "*.js",
+    "*.css"
+  ]
+}

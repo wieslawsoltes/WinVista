@@ -1,0 +1,17 @@
+{
+  "name": "@vista/renderer",
+  "version": "1.0.0",
+  "type": "module",
+  "license": "MIT",
+  "exports": {
+    ".": "./index.js"
+  },
+  "sideEffects": false,
+  "files": [
+    "*.js",
+    "*.css"
+  ],
+  "dependencies": {
+    "@vista/core": "workspace:*"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "@vista/apps-games",
+  "version": "1.0.0",
+  "type": "module",
+  "license": "MIT",
+  "exports": {
+    ".": "./index.js",
+    "./engines": "./engines.js",
+    "./chess-worker": "./chess-worker.js"
+  },
+  "sideEffects": false,
+  "files": [
+    "*.js",
+    "*.css"
+  ],
+  "dependencies": {
+    "@vista/ui": "workspace:*"
+  }
+}
